@@ -1,0 +1,15 @@
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\LoanCalculationTests.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\LoanCalculationTests.pdb
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\obj\Debug\LoanCalculationTests.csproj.AssemblyReference.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\obj\Debug\LoanCalculationTests.csproj.CoreCompileInputs.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\obj\Debug\LoanCalculationTests.csproj.CopyComplete
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\obj\Debug\LoanCalculationTests.dll
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\LoanCalculationTests\obj\Debug\LoanCalculationTests.pdb

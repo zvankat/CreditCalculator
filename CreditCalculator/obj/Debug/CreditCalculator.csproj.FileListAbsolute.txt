@@ -1,0 +1,11 @@
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.exe.config
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.exe
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.pdb
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.AssemblyReference.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.Form1.resources
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.Properties.Resources.resources
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.GenerateResource.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.CoreCompileInputs.cache
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.exe
+C:\Users\homya\OneDrive\Рабочий стол\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.pdb

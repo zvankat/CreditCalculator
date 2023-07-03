@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCalculator", "CreditCalculator\CreditCalculator.csproj", "{96EEC9E3-EC01-45BB-B302-F7197A802371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanCalculationTests", "LoanCalculationTests\LoanCalculationTests.csproj", "{872ED0E3-C077-4F9D-9221-847EE9479082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EEC9E3-EC01-45BB-B302-F7197A802371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EEC9E3-EC01-45BB-B302-F7197A802371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EEC9E3-EC01-45BB-B302-F7197A802371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EEC9E3-EC01-45BB-B302-F7197A802371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872ED0E3-C077-4F9D-9221-847EE9479082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872ED0E3-C077-4F9D-9221-847EE9479082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872ED0E3-C077-4F9D-9221-847EE9479082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872ED0E3-C077-4F9D-9221-847EE9479082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3448FC93-8224-428D-89C9-D652AAA6AF66}
+	EndGlobalSection
+EndGlobal
